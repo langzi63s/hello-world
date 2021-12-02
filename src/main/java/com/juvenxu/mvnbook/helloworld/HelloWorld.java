@@ -6,6 +6,10 @@ public class HelloWorld {
 	{
 		return "Hello Maven";
 	}
+	public String sayHi()
+	{
+		return "Hi Maven";
+	}
 	
 	public static void main(String[] args)
 	{
